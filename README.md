@@ -34,6 +34,7 @@ The following libraries are required:
     ```
 
 ## Running the Application
+Run the Application by the following command:
 ```bash
 python vader_sentiment_analyzer.py
 ```
