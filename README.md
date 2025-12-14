@@ -34,9 +34,9 @@ The following libraries are required:
     ```
 
 ## Running the Application
-
+```bash
 python vader_sentiment_analyzer.py
-
+```
 ## How to Use
 
 ​The main window titled "VADER Sentimental Analysis" will appear.   
